@@ -2,7 +2,7 @@
 
 
 
-A simple real estate Wwbsite project to showcase upscale properties in London. 
+A simple real estate website project to showcase upscale properties in London. 
 
 
 ## Website
