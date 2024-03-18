@@ -52,9 +52,9 @@ p{
 /*banner*/
 #banner{
   background-image: url(images/banner-img.jpg);
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
-  background-size: fill;
+  background-size: cover;
  
   padding-bottom:12%;
 }
